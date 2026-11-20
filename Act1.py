@@ -15,4 +15,4 @@ print("8:00 PM - I read for 1 hour.")
 print("Hours I read in a week:", 1 * 7)
 
 # ---------- PART 4: comments ----------
-# Comments are included above each section to describe what the code does.
+# Comments are included above each section to describe what the code does.  
